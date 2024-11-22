@@ -1,0 +1,20 @@
+4
+445            Nguyen Ngoc Lan Anh           Nu        2      10DHBM	         An toan thong tin
+2
+	hp1            Nhap mon lap trinh            3                 1          1               9.3
+	hp2            Giai tich                     3                 2          3               9 
+412            Socismee                      Nu        2      11DHTH         Cong nghe thong tin
+4
+	hp1            Nhap mon lap trinh            3                 1          1               9.3
+	hp2            Co so du lieu                 3                 2          3               8.8 
+	hp3            Logic hoc                     2                 3          4               9.5
+	hp4            Ki nang giao tiep             2                 4          4               8.3
+125            Dang Cao Tai                  Nam        2      12DHTH         Cong nghe thong tin
+2
+	hp1            Nhap mon lap trinh            3                 1          1               8.3
+	hp2            Co so du lieu                 3                 2          3               8.8 
+579            Nguyen Van Trao               Nam        2      11DHTH         Cong nghe thong tin
+3
+	hp1            Nhap mon lap trinh            3                 1          1               8.3
+	hp2            Co so du lieu                 2                 2          3               7.8 
+	hp3            Kien truc may tinh            2                 3          2               7.5
